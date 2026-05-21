@@ -1,4 +1,13 @@
-.DS_Store
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
 .ipynb_checkpoints/
 
+# Virtual environments
+venv/
+.env
 
+# macOS
+.DS_Store
